@@ -4,16 +4,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fayizmohammed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fayiztsy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/fayizmohammedk"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white" /></a>
-</p>
+
 
 ---
 
 ## 👨‍💻 About Me  
-Associate Data Engineer based in UAE with experience building **scalable data pipelines**, automating **ETL workflows**, and delivering **analytics solutions** using SQL, Python, Microsoft Fabric, Power BI, and cloud-based data platforms.  
-Passionate about **data modeling**, **cloud engineering**, and transforming raw data into meaningful insights that support business decisions.
-
----
+Associate Data Engineer based in the UAE with hands-on experience building scalable data pipelines, automating ETL workflows, and delivering analytics solutions using SQL, Python, Microsoft Fabric, Power BI, and cloud-based data platforms. Skilled in data modeling, cloud engineering, and transforming raw datasets into reliable, insight-driven outputs that empower business decisions. Continuously exploring modern data technologies to enhance performance, data quality, and automation.---
 
 ## 🛠️ Tech Stack  
 
@@ -81,8 +77,7 @@ Automated ETL scripts, scheduling, validations & warehouse design.
 
 ## 📫 Connect With Me  
 - **LinkedIn:** https://www.linkedin.com/in/fayizmohammed  
-- **Email:** fayiztsy@gmail.com  
-- **GitHub:** github.com/fayizmohammedk  
+- **Email:** fayiztsy@gmail.com    
 
 ---
 
