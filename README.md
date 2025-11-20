@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I'm Mohammed Fayis 👋</h1>
 <h3 align="center">Associate Data Engineer | Data Analyst | Cloud Data Enthusiast</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fayizmohammed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fayiztsy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white" /></a>
-
-
 ---
 
 ## 👨‍💻 About Me  
-Associate Data Engineer based in the UAE with hands-on experience building scalable data pipelines, automating ETL workflows, and delivering analytics solutions using SQL, Python, Microsoft Fabric, Power BI, and cloud-based data platforms. Skilled in data modeling, cloud engineering, and transforming raw datasets into reliable, insight-driven outputs that empower business decisions. Continuously exploring modern data technologies to enhance performance, data quality, and automation.---
+Associate Data Engineer based in the UAE with hands-on experience building scalable data pipelines, automating ETL workflows, and delivering analytics solutions using SQL, Python, Microsoft Fabric, Power BI, and cloud-based data platforms. Skilled in data modeling, cloud engineering, and transforming raw datasets into reliable, insight-driven outputs that empower business decisions. Continuously exploring modern data technologies to enhance performance, data quality, and automation.
+---
 
 ## 🛠️ Tech Stack  
 
